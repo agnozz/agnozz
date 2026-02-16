@@ -2,26 +2,27 @@
 
 <div align="center">
 
-<details>
-<summary><h3>📱 View Mobile App (Android)</h3></summary>
+<a href="#mobile-preview">📱 Mobile</a> |
+<a href="#web-preview">🌐 Web</a>
+
+</div>
 
 <br>
 
-<img src="https://your-android-image.png" width="300" alt="Android App Preview"/>
+---
+
+### <a name="mobile-preview"></a> 📱 Mobile Preview
+
+<div align="center">
+<img src="https://your-android-image.png" width="300"/>
+</div>
 
 <br><br>
 
-</details>
+---
 
-<details>
-<summary><h3>🌐 View Website</h3></summary>
+### <a name="web-preview"></a> 🌐 Web Preview
 
-<br>
-
-<img src="https://your-website-image.png" width="800" alt="Website Preview"/>
-
-<br><br>
-
-</details>
-
+<div align="center">
+<img src="https://your-website-image.png" width="900"/>
 </div>
